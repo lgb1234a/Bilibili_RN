@@ -1,0 +1,38 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/Podfile.lock
+ios/Pods
+
+
+
+# Android/IntelliJ
+#
+
+
+# RN
+#
+/js/modules/
+/node_modules/
+.DS_Store
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
