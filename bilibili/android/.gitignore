@@ -2,3 +2,10 @@ app/bin
 .project
 .settings
 .classpath
+.idea
+local.properties
+.gradle
+build
+app/app.iml
+bilibili.iml
+support
