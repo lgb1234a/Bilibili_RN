@@ -1,0 +1,9 @@
+/*
+ *  by chenyn  1.7.2018
+**/
+
+import React, { Component } from 'react';
+
+import {
+  
+} from 'react-native';
